@@ -1,4 +1,4 @@
-# Task 1:
+# Task 1 in task.py:
 mydict_initial={"piekarnia": ["chleb","pączek","bułki"],
         "warzywniak": ["marchew", "seler","rukola"]}
 mydict2=dict(mydict_initial)
