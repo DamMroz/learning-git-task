@@ -1,3 +1,4 @@
+# Task
 mydict={"piekarnia": ["chleb","pączek","bułki"],
         "warzywniak": ["marchew", "seler","rukola"]}
 mydict2=dict(mydict)
