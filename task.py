@@ -1,4 +1,4 @@
-# Task
+# Task 1
 mydict_initial={"piekarnia": ["chleb","pączek","bułki"],
         "warzywniak": ["marchew", "seler","rukola"]}
 mydict2=dict(mydict_initial)
